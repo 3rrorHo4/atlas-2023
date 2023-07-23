@@ -1,0 +1,71 @@
+{
+	"id": -1,
+	"name": "GD 10 year anniversary ",
+	"description": "On the 13th of August 2023, Geometry Dash will celebrate its 10 year anniversary. This logo was used by the developer, RobTop, to show this.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Geometry_Dash"
+		],
+		"subreddit": [
+			"geometrydash"
+		]
+	},
+	"path": {
+		"153": [
+			[
+				-460,
+				-867
+			],
+			[
+				-414,
+				-867
+			],
+			[
+				-412,
+				-864
+			],
+			[
+				-410,
+				-867
+			],
+			[
+				-402,
+				-871
+			],
+			[
+				-402,
+				-896
+			],
+			[
+				-413,
+				-903
+			],
+			[
+				-416,
+				-899
+			],
+			[
+				-460,
+				-900
+			],
+			[
+				-465,
+				-896
+			],
+			[
+				-465,
+				-872
+			],
+			[
+				-461,
+				-867
+			]
+		]
+	},
+	"center": {
+		"153": [
+			-434,
+			-883
+		]
+	}
+}
